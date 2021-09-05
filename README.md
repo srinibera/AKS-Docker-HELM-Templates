@@ -1,1 +1,1 @@
-# Azure-Dotnet-Samples
+# Azure .Net 5 Samples
